@@ -1,0 +1,8 @@
+{
+  "welcome": "Welcome to our application",
+  "description": "This is a simple application to demonstrate i18n in React.",
+  "convert": "Convert",
+  "amount": "Amount",
+  "result": "Conversion result",
+  "conversion_complete": "Conversion complete"
+}
